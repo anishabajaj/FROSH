@@ -1,1 +1,1 @@
-# Frosh Freshers App
+# Frosh App
